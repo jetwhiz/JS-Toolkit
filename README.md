@@ -12,7 +12,7 @@ The package includes the following functionality:
 * **Mutable Select** - Allow user modification of select box *(minified < 1 KB)* 
 * **Richtext Textarea** - Applies rich text functionality to text area *(minified < 3 KB)* 
 
-Demo page: https://jetwhiz.github.io/
+Demo page: https://jetwhiz.github.io/JS-Toolkit
 
 
 ## Usage
