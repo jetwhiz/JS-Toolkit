@@ -1,10 +1,10 @@
 # JS-Toolkit
-This toolit offers various ultra-lightweight JavaScript functions to help developers create web applications.  By virtue, all of these scripts should always remain less than 10 KB when minified.  
+This toolkit offers various ultra-lightweight JavaScript functions to help developers create web applications.  By virtue, all of these scripts should always remain less than 10 KB when minified.  
 
 
 ## Functionality
 
-The package includes the following functionaity: 
+The package includes the following functionality: 
 
 * **EventManager** - Required for all other toolkit scripts *(minified < 2 KB)* 
 * **Sortable** - Allow sorting of lists *(minified < 8 KB)* 
@@ -19,7 +19,7 @@ Demo page: https://jetwhiz.github.io/
 
 ### Sortable
 
-Simply use the special CSS class "jse_dragContainer" to denote the container object, and "jse_draggable" for each object you want draggable on the page.  There is no JS setup necessary!  It is not required to use &lt;ul>/&lt;ol> for drag-drop funcitonality -- this feature works with any block containers. 
+Simply use the special CSS class "jse_dragContainer" to denote the container object, and "jse_draggable" for each object you want draggable on the page.  There is no JS setup necessary!  It is not required to use &lt;ul>/&lt;ol> for drag-drop functionality -- this feature works with any block containers. 
 
 ```html
 <ul class="jse_dragContainer">
